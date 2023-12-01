@@ -1,5 +1,6 @@
 <!-- Add a header with your name and a brief introduction -->
 # Hi there! 👋 I'm Anne Sophie, a Junior Developer!
+*This ecologist-turned-coder is navigating the diverse ecosystems of the tech world!*
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
