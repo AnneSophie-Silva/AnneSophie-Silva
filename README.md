@@ -1,20 +1,19 @@
-<!-- Add a header with your name and a brief introduction -->
+
 # Hi there! 👋 I'm Anne Sophie, a Junior Developer!
 *This ecologist-turned-coder is navigating the diverse ecosystems of the tech world!*
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 ## About Me
-I hold a Bachelor's in Biology and a Master's in Ecology, but I decided to transition from the world of living creatures to the world of programming.
-My journey into coding began with completing a Software Developer course, marking a significant shift in my career.
+- I have a Bachelor's in Biology and a Master's in Ecology, but my passion led me to transition to the world of programming.
+- I successfully completed a Software Developer course, making a significant shift in my career.
+
 
 📫 Reach me at [annesosilva1311@gmail.com](mailto:annesosilva1311@gmail.com)
 
-<!-- Add badges and social media links -->
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anne%20Sophie%20Silva-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/annesophie-silva)
 
-<!-- Showcase your skills with logos -->
 ## Skills:
 - **Web Development**: 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/> HTML5
@@ -34,6 +33,5 @@ My journey into coding began with completing a Software Developer course, markin
 - **Other**: 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/> Git
 
-<!-- Add GitHub Stats -->
 ## GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=annesophie-silva&show_icons=true&locale=en&layout=compact)
